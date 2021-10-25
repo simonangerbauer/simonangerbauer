@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @simonangerbauer
+👋 Hi, I’m @simonangerbauer
