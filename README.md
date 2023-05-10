@@ -1,4 +1,4 @@
-👋 Hi, there
+Hi 👋
 
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonangerbauer&show_icons=true&count_private=true&theme=default" />
